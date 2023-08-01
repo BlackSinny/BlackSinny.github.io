@@ -2,237 +2,237 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://example.com/zh-cn/theme-documentation-basics/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/theme-documentation-basics/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/theme-documentation-basics/"
+                        href="BlackSinny.github.io/theme-documentation-basics/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/theme-documentation-basics/"
+                    href="BlackSinny.github.io/zh-cn/theme-documentation-basics/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/theme-documentation-content/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/theme-documentation-content/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/theme-documentation-content/"
+                        href="BlackSinny.github.io/theme-documentation-content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/theme-documentation-content/"
+                    href="BlackSinny.github.io/zh-cn/theme-documentation-content/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/theme-documentation-built-in-shortcodes/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/theme-documentation-built-in-shortcodes/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/theme-documentation-built-in-shortcodes/"
+                        href="BlackSinny.github.io/theme-documentation-built-in-shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/theme-documentation-built-in-shortcodes/"
+                    href="BlackSinny.github.io/zh-cn/theme-documentation-built-in-shortcodes/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/theme-documentation-extended-shortcodes/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/theme-documentation-extended-shortcodes/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/theme-documentation-extended-shortcodes/"
+                        href="BlackSinny.github.io/theme-documentation-extended-shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/theme-documentation-extended-shortcodes/"
+                    href="BlackSinny.github.io/zh-cn/theme-documentation-extended-shortcodes/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/basic-markdown-syntax/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/basic-markdown-syntax/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/basic-markdown-syntax/"
+                        href="BlackSinny.github.io/basic-markdown-syntax/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/basic-markdown-syntax/"
+                    href="BlackSinny.github.io/zh-cn/basic-markdown-syntax/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/theme-documentation-mermaid-shortcode/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/theme-documentation-mermaid-shortcode/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/theme-documentation-mermaid-shortcode/"
+                        href="BlackSinny.github.io/theme-documentation-mermaid-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/theme-documentation-mermaid-shortcode/"
+                    href="BlackSinny.github.io/zh-cn/theme-documentation-mermaid-shortcode/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/emoji-support/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/emoji-support/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/emoji-support/"
+                        href="BlackSinny.github.io/emoji-support/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/emoji-support/"
+                    href="BlackSinny.github.io/zh-cn/emoji-support/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/theme-documentation-echarts-shortcode/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/theme-documentation-echarts-shortcode/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/theme-documentation-echarts-shortcode/"
+                        href="BlackSinny.github.io/theme-documentation-echarts-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/theme-documentation-echarts-shortcode/"
+                    href="BlackSinny.github.io/zh-cn/theme-documentation-echarts-shortcode/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/theme-documentation-mapbox-shortcode/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/theme-documentation-mapbox-shortcode/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/theme-documentation-mapbox-shortcode/"
+                        href="BlackSinny.github.io/theme-documentation-mapbox-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/theme-documentation-mapbox-shortcode/"
+                    href="BlackSinny.github.io/zh-cn/theme-documentation-mapbox-shortcode/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/theme-documentation-music-shortcode/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/theme-documentation-music-shortcode/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/theme-documentation-music-shortcode/"
+                        href="BlackSinny.github.io/theme-documentation-music-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/theme-documentation-music-shortcode/"
+                    href="BlackSinny.github.io/zh-cn/theme-documentation-music-shortcode/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/theme-documentation-bilibili-shortcode/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/theme-documentation-bilibili-shortcode/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/theme-documentation-bilibili-shortcode/"
+                        href="BlackSinny.github.io/theme-documentation-bilibili-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/theme-documentation-bilibili-shortcode/"
+                    href="BlackSinny.github.io/zh-cn/theme-documentation-bilibili-shortcode/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/theme-documentation-typeit-shortcode/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/theme-documentation-typeit-shortcode/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/theme-documentation-typeit-shortcode/"
+                        href="BlackSinny.github.io/theme-documentation-typeit-shortcode/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/theme-documentation-typeit-shortcode/"
+                    href="BlackSinny.github.io/zh-cn/theme-documentation-typeit-shortcode/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/categories/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/categories/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/categories/"
+                        href="BlackSinny.github.io/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/categories/"
+                    href="BlackSinny.github.io/zh-cn/categories/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/"
+                        href="BlackSinny.github.io/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/"
+                    href="BlackSinny.github.io/zh-cn/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/posts/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/posts/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/posts/"
+                        href="BlackSinny.github.io/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/posts/"
+                    href="BlackSinny.github.io/zh-cn/posts/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/tags/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/tags/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/tags/"
+                        href="BlackSinny.github.io/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/tags/"
+                    href="BlackSinny.github.io/zh-cn/tags/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/tags/markdown/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/tags/markdown/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/tags/markdown/"
+                        href="BlackSinny.github.io/tags/markdown/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/tags/markdown/"
+                    href="BlackSinny.github.io/zh-cn/tags/markdown/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/tags/shortcodes/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/tags/shortcodes/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/tags/shortcodes/"
+                        href="BlackSinny.github.io/tags/shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/tags/shortcodes/"
+                    href="BlackSinny.github.io/zh-cn/tags/shortcodes/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/tags/html/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/tags/html/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/tags/html/"
+                        href="BlackSinny.github.io/tags/html/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/tags/html/"
+                    href="BlackSinny.github.io/zh-cn/tags/html/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/categories/markdown/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/categories/markdown/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/categories/markdown/"
+                        href="BlackSinny.github.io/categories/markdown/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/categories/markdown/"
+                    href="BlackSinny.github.io/zh-cn/categories/markdown/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/tags/emoji/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/tags/emoji/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/tags/emoji/"
+                        href="BlackSinny.github.io/tags/emoji/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/tags/emoji/"
+                    href="BlackSinny.github.io/zh-cn/tags/emoji/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/about/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/about/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/about/"
+                        href="BlackSinny.github.io/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/about/"
+                    href="BlackSinny.github.io/zh-cn/about/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/tags/installation/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/tags/installation/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/tags/installation/"
+                        href="BlackSinny.github.io/tags/installation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/tags/installation/"
+                    href="BlackSinny.github.io/zh-cn/tags/installation/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/tags/content/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/tags/content/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/tags/content/"
+                        href="BlackSinny.github.io/tags/content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/tags/content/"
+                    href="BlackSinny.github.io/zh-cn/tags/content/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/tags/configuration/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/tags/configuration/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/tags/configuration/"
+                        href="BlackSinny.github.io/tags/configuration/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/tags/configuration/"
+                    href="BlackSinny.github.io/zh-cn/tags/configuration/"
                     /></url><url>
-            <loc>https://example.com/zh-cn/categories/documentation/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>BlackSinny.github.io/zh-cn/categories/documentation/</loc><lastmod>2023-08-01T17:20:20&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/categories/documentation/"
+                        href="BlackSinny.github.io/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://example.com/zh-cn/categories/documentation/"
+                    href="BlackSinny.github.io/zh-cn/categories/documentation/"
                     /></url></urlset>
